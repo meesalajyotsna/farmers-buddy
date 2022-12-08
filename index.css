@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+}
+body{
+    
+    padding: 5rem 10rem 0rem 10rem;
+    background-image: url("./assets/crop1.jpeg");
+    background-size: cover;
+    
+}
+h1{
+    font-size:2rem;
+    
+}
+a{
+    color:white;
+    background:transparent;
+    
+}
+.abc{
+    background: white;
+    padding: 0.3rem;
+}
